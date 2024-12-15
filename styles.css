@@ -5,12 +5,16 @@
 h1 {
     background-color: yellow;
     font-size: 100px;
+    margin: 20px;
+    padding-left: 10px;
 }
 
 h2 {
     background-color: black;
     color: white;
     font-size: 50px;
+    margin: 20px;
+    padding-left: 10px;
 }
 
 ul, ol, p {
@@ -21,4 +25,8 @@ ul, ol, p {
 img {
     width: 700;
     height: auto;
+}
+
+* {
+    /*outline: 2px dotted black;*/
 }
